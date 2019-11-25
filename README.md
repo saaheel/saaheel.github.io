@@ -1,2 +1,3 @@
-# saaheel.github.io
-My Personal Web Page
+# Saaheel Majethia - Developer, Photographer
+My Personal Page
+I am Saaheel Majethia, Web developer from Mumbai- India

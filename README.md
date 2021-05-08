@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saaheel Majethia</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saaheel" alt="saaheel" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS,**
+- 🌱 I’m currently learning **JavaScript, NodeJS, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://fullstackgeek.in](https://fullstackgeek.in)
 
-- 📝 I regulary write articles on [https://krazypost.com](https://krazypost.com)
+- 📝 I regularly write articles on [https://krazypost.com](https://krazypost.com)
 
 - 💬 Ask me about **React, PHP, WordPress**
 
